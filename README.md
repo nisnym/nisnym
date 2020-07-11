@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### 👩‍💻 My Coding Skills :
+Languages : C/C++, Java, SQL, HTML, CSS, JavaScript, Python
+
+Development Environment : VS Code
+
+
+
 <!--
 **nisnym/nisnym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
