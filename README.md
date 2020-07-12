@@ -14,7 +14,7 @@ Development Environment : VS Code
 
 [+]. Learn and use whatever technology solves the problem at hand.
 
-### 📫 How to reach me:
+### 📫 How to reach me :
 I'm @nisnym most places online.
 
 
