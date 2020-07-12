@@ -1,10 +1,18 @@
 ### Hi there 👋
 
-### 👩‍💻 My Coding Skills :
+### 💻 My Coding Skills :
 Languages : C/C++, Java, SQL, HTML, CSS, JavaScript, Python
 
 Development Environment : VS Code
 
+### 🔭 What I Do :
+[+]. Create usable software.
+[+]. Write in clear, concise language.
+[+]. Capture stunning images and video.
+[+]. Learn and use whatever technology solves the problem at hand.
+
+### 📫 How to reach me:
+I'm @nisnym most places online.
 
 
 <!--
