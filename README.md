@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 💻 My Coding Skills :
-Languages : C/C++, Java, SQL, HTML, CSS, JavaScript, Python
+Languages : C/C++, PHP , SQL, JavaScript, Python
 
 Development Environment : VS Code
 
