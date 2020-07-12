@@ -7,8 +7,11 @@ Development Environment : VS Code
 
 ### 🔭 What I Do :
 [+]. Create usable software.
+
 [+]. Write in clear, concise language.
+
 [+]. Capture stunning images and video.
+
 [+]. Learn and use whatever technology solves the problem at hand.
 
 ### 📫 How to reach me:
