@@ -3,7 +3,6 @@
 ### 💻 My Coding Skills :
 Languages : C/C++, PHP , SQL, JavaScript, Python
 
-Development Environment : VS Code
 
 ### 🔭 What I Do :
 [+]. Create usable software.
