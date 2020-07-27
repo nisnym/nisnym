@@ -3,7 +3,7 @@
 ### 💻 My Coding Skills :
 Languages : C/C++, PHP , SQL, JavaScript, Python
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p>
+
 
 ### 🔭 What I Do :
 [+]. Create usable software.
@@ -17,6 +17,9 @@ Languages : C/C++, PHP , SQL, JavaScript, Python
 ### 📫 How to reach me :
 I'm @nisnym most places online.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisnym" alt="nisnym" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nisnym&show_icons=true" alt="nisnym" /> </p>
 
 <!--
 **nisnym/nisnym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
