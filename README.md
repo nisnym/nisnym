@@ -1,8 +1,7 @@
 ### Hi there 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisnym" alt="nisnym" /> </p>
 ### 💻 My Coding Skills :
 Languages : C/C++, PHP , SQL, JavaScript, Python
-
 
 
 ### 🔭 What I Do :
@@ -17,9 +16,9 @@ Languages : C/C++, PHP , SQL, JavaScript, Python
 ### 📫 How to reach me :
 I'm @nisnym most places online.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisnym" alt="nisnym" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nisnym&show_icons=true" alt="nisnym" /> </p>
+
+
 
 <!--
 **nisnym/nisnym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
