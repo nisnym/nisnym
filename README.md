@@ -2,7 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisnym" alt="nisnym" /> </p>
 
 ### 💻 My Coding Skills :
-Languages : C/C++, PHP , SQL, JavaScript, Python
+Languages: C/C++, PHP , SQL, JavaScript, Python, 
+
 
 
 ### 🔭 What I Do :
