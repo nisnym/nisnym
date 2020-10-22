@@ -36,3 +36,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br />
+
+---
+
+<img align="left" alt="andrefpoliveira's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nisnym&show_icons=true&hide_border=true" />
+<img align="left" alt="andrefpoliveira's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisnym&hide=html" />
+
+
