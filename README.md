@@ -39,9 +39,7 @@ Here are some ideas to get you started:
 
 <br />
 
----
+<img align="left" alt="Nishant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nisnym&count_private=true&show_icons=true&title_color=333&icon_color=333" />
 
-<img align="left" alt="andrefpoliveira's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nisnym&show_icons=true&hide_border=true" />
-<img align="left" alt="andrefpoliveira's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisnym&hide=html" />
 
 
