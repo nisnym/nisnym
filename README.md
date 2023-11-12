@@ -1,45 +1,38 @@
-### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisnym" alt="nisnym" /> </p>
-
-### 💻 My Coding Skills :
-Languages: C/C++, PHP , SQL, JavaScript, Python, 
 
 
+<h2 align="left">I code with</h2>
 
-### 🔭 What I Do :
-[+]. Create usable software.
+###
 
-[+]. Write in clear, concise language.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
-[+]. Capture stunning images and video.
+###
 
-[+]. Learn and use whatever technology solves the problem at hand.
+<h2 align="left">🔭 What I Do</h2>
 
-### 📫 How to reach me :
-I'm @nisnym most places online.
+###
 
+<p align="left">✨ Create usable software.<br><br>📝 Write in clear, concise language.<br><br>📸 Capture stunning images and video.<br><br>🛠️️ Learn and use whatever technology that solves the problem at hand.</p>
 
+###
 
+<div align="left">
+</div>
 
+###
 
-<!--
-**nisnym/nisnym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<br />
-
-<img align="left" alt="Nishant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nisnym&count_private=true&show_icons=true&title_color=333&icon_color=333" />
-
-
-
+###
